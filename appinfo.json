@@ -1,10 +1,11 @@
 {
-  "uuid": "030ee5fc-518b-49e5-b9b2-0700ee92af89",
-  "shortName": "Simplicity",
-  "longName": "Simplicity",
-  "companyName": "Pebble Technology",
-  "versionCode": 3,
-  "versionLabel": "3.1",
+  "uuid": "0c52807a-afd9-4361-933a-72eba06d9b88",
+  "shortName": "Simplicity DoW",
+  "longName": "Simplicity with Day of Week",
+  "companyName": "aelius",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
   "watchapp": {
     "watchface": true
   },
@@ -13,16 +14,10 @@
     "media": [
       {
         "menuIcon": true,
-        "type": "bitmap",
+        "type": "png",
         "name": "IMAGE_MENU_ICON",
         "file": "images/menu_icon_simplicity.png"
       }
     ]
-  },
-  "targetPlatforms": [
-    "aplite",
-    "basalt",
-    "chalk"
-  ],
-  "sdkVersion": "3"
+  }
 }
