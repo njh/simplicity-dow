@@ -1,5 +1,8 @@
-# simplicity
+# Pebble Simplicity Watchface with added Day of Week
 
-![screenshot](simplicity-screenshot.png)
+![screenshot](simplicity-dow-screenshot.png)
 
-Example watchface showing the date and time.
+
+
+Based on the Simplicity example watchface:
+https://github.com/pebble-examples/simplicity
