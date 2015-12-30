@@ -1,6 +1,6 @@
 # Pebble Simplicity Watchface with added Day of Week
 
-![screenshot](simplicity-dow-screenshot.png)
+![screenshot](screenshots/simplicity-dow-screenshot.png)
 
 
 
